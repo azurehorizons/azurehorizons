@@ -1,7 +1,3 @@
-## Hi there 👋
-
-Languages: HTML, CSS, JavaScript, Java, C++, SQL
-
 <!--
 **azurehorizons/azurehorizons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
